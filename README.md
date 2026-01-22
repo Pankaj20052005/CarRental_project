@@ -217,32 +217,6 @@ Home → Scroll to Newsletter Section → Enter Email → Subscribe
 Click Login Icon → Choose Sign Up/Login → Enter Details → Access Dashboard
 ```
 
----
-
-## 📸 Screenshots
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
-The landing page features a hero section with search functionality and featured car listings.
-
-### Car Listings
-![Car Listings](https://via.placeholder.com/800x400?text=Car+Listings)
-Browse and filter available cars with pricing and availability information.
-
-### Car Details
-![Car Details](https://via.placeholder.com/800x400?text=Car+Details)
-Detailed car information with specifications, pricing, and booking options.
-
-### Booking Dashboard
-![My Bookings](https://via.placeholder.com/800x400?text=My+Bookings)
-Manage your active bookings and reservation history.
-
-### Mobile Responsive
-![Mobile View](https://via.placeholder.com/400x600?text=Mobile+View)
-Fully responsive design works seamlessly on all devices.
-
----
-
 ## 🔌 API Integration
 
 The application is ready for backend integration:
@@ -313,7 +287,7 @@ You are free to:
 
 **Pankaj Kumar**
 - 🔗 [GitHub](https://github.com/Pankaj20052005)
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [pankajus2005@gmail.com]
 
 ---
 
@@ -337,7 +311,7 @@ If you have any questions or need assistance:
 
 <div align="center">
 
-**Made with ❤️ by Pankaj Kumar**
+**Made with ❤️ by Pankaj**
 
 Give a ⭐ if this project helped you!
 
